@@ -3,7 +3,7 @@
 Amazing website with good UI design for new Discord bots, designed with Bootstrap & now-ui-kit available in English and Arabic.
 
 ![Screenshot](https://raw.githubusercontent.com/NourEldienHE/Discord-bot-website-template/master/Screenshot.png)
-
+^^the above text is for linking words to linls.
 ## Getting Started
 
 Download or fork the repo to get started!
@@ -11,7 +11,7 @@ Download or fork the repo to get started!
 ### Installing
 
 Download or fork the repo
-
+the ``` are for showing code.```
 ```
 git clone https://github.com/NourEldienHE/Discord-bot-website-template.git
 ```
@@ -31,3 +31,4 @@ Open index.html and start to use the website
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+yep, and thats like it.
